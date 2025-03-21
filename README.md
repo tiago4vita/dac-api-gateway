@@ -8,12 +8,12 @@ Este é um API Gateway desenvolvido como parte do projeto da disciplina de Desen
 **Curso:** TADS - UFPR  
 **Ano:** 2025
 
-**Alunos:**
-GRR20230988 - André Luiz Morais de Brito
-GRR20221103 - Carlos Eduardo Camargo Viana
-GRR20221105 - Mariane Roesler - roeslermariane@gmail.com
-GRR20230984 - Pedro Felipe Ribeiro da Silva
-GRR20234975 - Tiago Pareja Vita
+## Alunos
+- GRR20230988 - André Luiz Morais de Brito
+- GRR20221103 - Carlos Eduardo Camargo Viana
+- GRR20221105 - Mariane Roesler
+- GRR20230984 - Pedro Felipe Ribeiro da Silva
+- GRR20234975 - Tiago Pareja Vita
 
 ## Funcionalidades
 - Roteamento de tráfego para microsserviços
